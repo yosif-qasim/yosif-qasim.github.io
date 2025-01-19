@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Koshary for the win!</title>
-    <link>https://example.org/posts/</link>
+    <link>https://yosif-qasim.github.io/posts/</link>
     <description>Recent content in Posts on Koshary for the win!</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yosif-qasim.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Koshary codes</title>
-      <link>https://example.org/posts/test/</link>
+      <link>https://yosif-qasim.github.io/posts/test/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://example.org/posts/test/</guid>
+      <guid>https://yosif-qasim.github.io/posts/test/</guid>
       <description>&lt;p&gt;this is a test !&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://marwan-store.vercel.app/&#34; title=&#34;W3Schools Free Online Web Tutorials&#34;&gt;&#xA;&lt;/iframe&gt;</description>
     </item>
   </channel>
