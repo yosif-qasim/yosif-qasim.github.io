@@ -20,7 +20,7 @@
       <link>https://yosif-qasim.github.io/posts/test/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>https://yosif-qasim.github.io/posts/test/</guid>
-      <description>&lt;p&gt;this is a test !&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://marwan-store.vercel.app/&#34; title=&#34;W3Schools Free Online Web Tutorials&#34;&gt;&#xA;&lt;/iframe&gt;</description>
+      <description>&lt;p&gt;this is a test !&lt;/p&gt;&#xA;&lt;style&gt;&#xA;  body {&#xA;    margin: 0; /* Remove default body margin */&#xA;  }&#xA;  iframe {&#xA;    width: 80%;&#xA;    height: 100vh; /* 100% of viewport height */&#xA;    display: block;&#xA;    margin: 0 auto; /* Center horizontally */&#xA;    border: none; /* Remove default border */&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;iframe src=&#34;https://koshary-code.vercel.app/&#34; title=&#34;koshary-code&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title></title>
