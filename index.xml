@@ -22,5 +22,12 @@
       <guid>https://yosif-qasim.github.io/posts/test/</guid>
       <description>&lt;p&gt;this is a test !&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://marwan-store.vercel.app/&#34; title=&#34;W3Schools Free Online Web Tutorials&#34;&gt;&#xA;&lt;/iframe&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>https://yosif-qasim.github.io/posts/adventuring-in-the-world-of-llms-memory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yosif-qasim.github.io/posts/adventuring-in-the-world-of-llms-memory/</guid>
+      <description>&lt;h1 id=&#34;adventuring-in-the-world-of-llms-memory&#34;&gt;Adventuring in the world of LLM’s Memory&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Adventuring%20in%20the%20world%20of%20LLM%E2%80%99s%20Memory%201772b401c800801fa7dddffd26882850/135A56DF-E412-4DE7-AF34-85EA8235B70D.png&#34; alt=&#34;image cerated by Dalle of a man Adventuring in the world of LLM’s Memory :) &#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;image cerated by Dalle of a man Adventuring in the world of LLM’s Memory :)&lt;/p&gt;&#xA;&lt;p&gt;index :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ChatGPT&#xA;&lt;ul&gt;&#xA;&lt;li&gt;system prompt&lt;/li&gt;&#xA;&lt;li&gt;bio tool&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;The state of LLM memory&#xA;&lt;ul&gt;&#xA;&lt;li&gt;short term memory&#xA;&lt;ul&gt;&#xA;&lt;li&gt;LangChain&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;long term memory&#xA;&lt;ul&gt;&#xA;&lt;li&gt;our own bio tool&lt;/li&gt;&#xA;&lt;li&gt;creating a better memory tool&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;other approaches to long &amp;amp; short term memory in the LLM space&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;aside&gt;&#xA;💡&#xA;&lt;p&gt;This Article is about my journey of learning about the different ways LLM’s are equipped with long &amp;amp; short term memory, Don’t expect any breakthrough,Im just exploring the surface&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
